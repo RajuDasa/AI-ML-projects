@@ -19,6 +19,7 @@ AI/ML projects and exercises in jupyter notebook format.
   - Simple RAG agent using Langchain
 
 **4. LLM Engineering projects (in other repo):**
- - [Conversation between 3 Chatbots:](https://github.com/RajuDasa/llm_engineering/blob/7967b51e4aea2f6d7672787b992e857975671246/week2/community-contributions/raju/week2_day1_exercise.ipynb)
+ - [Summarize a webpage using Ollama](https://github.com/RajuDasa/llm_engineering/blob/local/week1/community-contributions/week1_assignments_raju/llm_week1_day2_assignment.ipynb)
+ - [Conversation between 3 Chatbots](https://github.com/RajuDasa/llm_engineering/blob/7967b51e4aea2f6d7672787b992e857975671246/week2/community-contributions/raju/week2_day1_exercise.ipynb)
  - [Tool using - LLM](https://github.com/RajuDasa/llm_engineering/blob/local/week2/community-contributions/raju/week2_day4_exercise.ipynb)
    
