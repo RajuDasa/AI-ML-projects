@@ -17,6 +17,7 @@ AI/ML projects and exercises in jupyter notebook format.
 
   **3. Agentic:**
   - [Simple RAG agent using Langchain](projects/agentic/Mongodb_RAG_agent_langchain.ipynb)
+  - [My digital twin - RAG based chat app](https://huggingface.co/spaces/RajuDasa/my_clone/tree/main)
 
 **4. LLM Engineering projects (in other repo):**
  - [Summarize a webpage using Ollama](https://github.com/RajuDasa/llm_engineering/blob/local/week1/community-contributions/week1_assignments_raju/llm_week1_day2_assignment.ipynb)
