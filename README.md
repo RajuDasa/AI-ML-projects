@@ -20,6 +20,7 @@ AI/ML projects and exercises in jupyter notebook format.
   - [My digital twin - RAG based chat app](https://huggingface.co/spaces/RajuDasa/my_clone/tree/main)
   - [Buy/sell stock agent](https://github.com/RajuDasa/agents/blob/local/1_foundations/community_contributions/raju/Foundations_Lab5_exercise.ipynb)
   - [Email Campaign using OpenAI agents SDK](https://github.com/RajuDasa/agents/blob/local/2_openai/community_contributions/raju/week2_lab2_mailmerge_exercise.ipynb)
+  - [CrewAI - Debating agents](projects/agentic/crewai/debaters); [CrewAI - Engineering Team of agents](projects/agentic/crewai/engineering_team)
   - 
 **4. LLM Engineering projects (in other repo):**
  - [Summarize a webpage using Ollama](https://github.com/RajuDasa/llm_engineering/blob/local/week1/community-contributions/week1_assignments_raju/llm_week1_day2_assignment.ipynb)
