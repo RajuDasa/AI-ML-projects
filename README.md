@@ -19,9 +19,11 @@ AI/ML projects and exercises in jupyter notebook format.
   - [Simple RAG agent using Langchain](projects/agentic/Mongodb_RAG_agent_langchain.ipynb)
   - [My digital twin - RAG based chat app](https://huggingface.co/spaces/RajuDasa/my_clone/tree/main)
   - [Buy/sell stock agent](https://github.com/RajuDasa/agents/blob/local/1_foundations/community_contributions/raju/Foundations_Lab5_exercise.ipynb)
-  - [Email Campaign using OpenAI agents SDK](https://github.com/RajuDasa/agents/blob/local/2_openai/community_contributions/raju/week2_lab2_mailmerge_exercise.ipynb)
-  - [CrewAI - Debating agents](projects/agentic/crewai/debaters); [CrewAI - Engineering Team of agents](projects/agentic/crewai/engineering_team)
-  - 
+  - [OpenAI agents SDK - Email Campaign](https://github.com/RajuDasa/agents/blob/local/2_openai/community_contributions/raju/week2_lab2_mailmerge_exercise.ipynb)
+  - [CrewAI - Debating agents](projects/agentic/crewai/debaters)
+  - [CrewAI - Engineering Team of agents](projects/agentic/crewai/engineering_team)
+  - [LangGraph - Planner, Worker(with tools) and Evaluator agents](https://github.com/RajuDasa/agents/tree/local/4_langgraph/community_contributions/raju)
+    
 **4. LLM Engineering projects (in other repo):**
  - [Summarize a webpage using Ollama](https://github.com/RajuDasa/llm_engineering/blob/local/week1/community-contributions/week1_assignments_raju/llm_week1_day2_assignment.ipynb)
  - [Conversation between 3 Chatbots](https://github.com/RajuDasa/llm_engineering/blob/7967b51e4aea2f6d7672787b992e857975671246/week2/community-contributions/raju/week2_day1_exercise.ipynb)
