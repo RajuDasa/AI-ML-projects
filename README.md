@@ -23,6 +23,7 @@ AI/ML projects and exercises in jupyter notebook format.
   - [CrewAI - Debating agents](projects/agentic/crewai/debaters)
   - [CrewAI - Engineering Team of agents](projects/agentic/crewai/engineering_team)
   - [LangGraph - Planner, Worker(with tools) and Evaluator agents](https://github.com/RajuDasa/agents/tree/local/4_langgraph/community_contributions/raju)
+  - [MCP server - current date](https://github.com/RajuDasa/agents/blob/local/6_mcp/community_contributions/raju%20/date_mcp.py)
     
 **4. LLM Engineering projects (in other repo):**
  - [Summarize a webpage using Ollama](https://github.com/RajuDasa/llm_engineering/blob/local/week1/community-contributions/week1_assignments_raju/llm_week1_day2_assignment.ipynb)
